@@ -1,0 +1,11 @@
+Initialize jupyter in no browser mode
+jupyter notebook --no-browser --port=8080
+
+Tunnel the jupyter server running on 8080 through ssh to local machine
+ssh -N -L 8080:localhost:8080 sakumar@db-research.cs.nmsu.edu
+
+Run zookeeper
+(zookeeper-server-start.sh /usr/local/kafka/config/zookeeper.properties)
+
+Run kafka
+(kafka-server-start.sh /usr/local/kafka/config/server.properties)
