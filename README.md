@@ -1,7 +1,7 @@
 # Smart-Grid-Integration
 ![smartgrid](https://pbs.twimg.com/profile_images/378800000017633734/40afd2eddbedc568555977a0c9758e86_400x400.jpeg)
 
-Please checkout the official website for [NMEPSCoR Smart Grid](https://www.nmepscor.org/)
+Please checkout the official website of [NMEPSCoR Smart Grid](https://www.nmepscor.org/)
 ## Mission
 The New Mexico SMART Grid Center mission is to investigate the fundamental challenges to transition 
 the existing electricity transmission and distribution infrastructure into a SMART grid and develop 
