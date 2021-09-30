@@ -18,8 +18,12 @@ In this project, I worked on multivariate time series anomaly detection using ``
 The dataset I used for testing can be found in UCI Machine Learning Repository - [Individual household electric power consumption Data Set](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption)
 
 ## Real-time Anomaly detection in action
+### contamination = 0.3
 ![anomaly1](Plots/colab/anomaly_Last100_contamination_0.3_maxDepth_0.2.png)
-![anomaly2](Plots/colab/anomaly_last100_default.png)
+### contamination auto
+![anomaly2](Plots/colab/anomaly_last100_contamination_auto_maxDepth_0.2..png)
+### default contamination
+![anomaly3](Plots/colab/anomaly_last100_default.png)
 
 ## Future Work
 <ul>
